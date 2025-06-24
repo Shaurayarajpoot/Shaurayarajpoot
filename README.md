@@ -37,11 +37,11 @@ I believe in building solid fundamentals and solving real problems step by step.
 
 ## 🤝 Let’s Connect
 
-- 📫 Email: shauraya[at]gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-- 💻 Portfolio (coming soon...)  
+- 📫 Email: shaurayarajpoot842@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/shauraya-rajpoot)  
+- 💻 Portfolio (coming soon...) 
 - 🧠 Always open to internship opportunities in:  
-  **Data Science | ML Engineering | Data Analytics | Backend AI systems**
+  **Data Science | ML Engineering | Data Analytics 
 
 ---
 

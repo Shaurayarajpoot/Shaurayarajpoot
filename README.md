@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shauraya Rajpoot — Future Data Scientist & ML Engineer
+# 👋 Hi, I’m Shauraya Rajpoot — Data Scientist & ML Engineer
 
 🔍 I’m a data-driven problem solver with a deep curiosity for uncovering patterns, making predictions, and building intelligent systems.
 
